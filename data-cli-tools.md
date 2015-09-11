@@ -73,6 +73,11 @@ Questions?
 
 ... and thank you!
 
+Matt Pettis
+- Email: matthew.pettis@gmail.com
+- Twitter: @mtpettis
+- GitHub: mpettis
+
 Location of this presentation:
 
 https://github.com/mpettis/data-cli-tools
