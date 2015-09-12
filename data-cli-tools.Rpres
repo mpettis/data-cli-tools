@@ -2,8 +2,6 @@ Command-line Tools for Data Analysis
 ========================================================
 author: Matt Pettis
 date: 2015-09-14
-
-
 Motivation: Why care about command line tools at all?
 ========================================================
 incremental: true
@@ -13,6 +11,19 @@ incremental: true
 - Command-line tools (CLI) are often composable into pipelines.
 - Often, data ETL needs to be scriptable, with different but analagous datasets.
 - Analysis also often needs to be scriptable, for auditablility and reproducibility.
+
+
+Motivation: Why care about command line tools at all?
+========================================================
+
+--
+I am not alone...
+
+From @JennyBryan via [Twitter link](https://twitter.com/hspter/status/631149741158502400)
+
+***
+![Why tooling is important](img/data-project-problems.jpg)
+
 
 
 Common examples where CLI is helpful 
